@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @JayaprakashS18
-- 👀 I’m interested in web developer
+- 👀 I’m interested in web developement
 - 🌱 I’m currently learning web development
